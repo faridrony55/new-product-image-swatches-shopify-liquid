@@ -1,0 +1,196 @@
+{
+      "type":"Gift1",
+      "name":"First Variant Gift",
+      "limit": 1,
+      "settings":[  
+        {
+          "type": "text",
+          "id": "gift1",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg1",
+          "label": "Image"
+        }, 
+        {
+          "type": "header", 
+          "content": "Next Gift" 
+        },
+        {
+          "type": "text",
+          "id": "gift2",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg2",
+          "label": "Image"
+        },
+        {
+          "type": "header", 
+          "content": "Next Gift" 
+        },
+        {
+          "type": "text",
+          "id": "gift3",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg3",
+          "label": "Image"
+        }
+         
+      ]
+    },
+    {
+      "type":"Gift4",
+      "name":"Fourth Variant Gift",
+      "limit": 1,
+      "settings":[  
+        {
+          "type": "text",
+          "id": "gift1",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg1",
+          "label": "Image"
+        }, 
+        {
+          "type": "header", 
+          "content": "Next Gift" 
+        },
+        {
+          "type": "text",
+          "id": "gift2",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg2",
+          "label": "Image"
+        },
+        {
+          "type": "header", 
+          "content": "Next Gift" 
+        },
+        {
+          "type": "text",
+          "id": "gift3",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg3",
+          "label": "Image"
+        }
+         
+      ]
+    },
+    {
+      "type":"Gift3",
+      "name":"Third Variant Gift",
+      "limit": 1,
+      "settings":[  
+        {
+          "type": "text",
+          "id": "gift1",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg1",
+          "label": "Image"
+        }, 
+        {
+          "type": "header", 
+          "content": "Next Gift" 
+        },
+        {
+          "type": "text",
+          "id": "gift2",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg2",
+          "label": "Image"
+        },
+        {
+          "type": "header", 
+          "content": "Next Gift" 
+        },
+        {
+          "type": "text",
+          "id": "gift3",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg3",
+          "label": "Image"
+        }
+         
+      ]
+    },
+    {
+      "type":"Gift2",
+      "name":"Second Variant Gift",
+      "limit": 1,
+      "settings":[  
+        {
+          "type": "text",
+          "id": "gift1",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg1",
+          "label": "Image"
+        }, 
+        {
+          "type": "header", 
+          "content": "Next Gift" 
+        },
+        {
+          "type": "text",
+          "id": "gift2",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg2",
+          "label": "Image"
+        },
+        {
+          "type": "header", 
+          "content": "Next Gift" 
+        },
+        {
+          "type": "text",
+          "id": "gift3",
+          "label": "Gift Name",
+          "default": "Recipe Book"
+        },
+        {
+          "type": "image_picker",
+          "id": "giftimg3",
+          "label": "Image"
+        }
+         
+      ]
+    },
